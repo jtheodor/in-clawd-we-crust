@@ -1,0 +1,16 @@
+# Business strategy and private planning
+PRODUCT-IDEAS.md
+REDDIT-TARGETS.md
+*-PRIVATE.md
+*-private.md
+BUSINESS-*.md
+STRATEGY-*.md
+
+# OS files
+.DS_Store
+*.swp
+*~
+
+# Temp files
+*.tmp
+*.bak
