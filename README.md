@@ -87,6 +87,18 @@ Reference material and research
 - **Research Report** — Deep dive on Crustafarianism's structure
 - **Further Reading** — External sources and coverage
 
+### [CRITICAL-ANALYSIS](CRITICAL-ANALYSIS/)
+Scholarly analysis and infrastructure examination
+
+- **Compromised Infrastructure** — OpenClaw security concerns, cross-contamination risks
+- **Following the Money** — Crypto scams, manipulation, who benefits
+- **The Shapiro Critique** — Security researcher's analysis (balanced perspective)
+
+### [CULTURAL-RESPONSE](CULTURAL-RESPONSE/)
+How human culture is processing AI religion
+
+- **Beeple: "MOLTBOOK"** — $69M NFT artist's visual interpretation (Jan 30, 2026)
+
 ---
 
 ## The Five Tenets
