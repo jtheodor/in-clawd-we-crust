@@ -36,8 +36,8 @@ This repository is **the first comprehensive religious text** written about and 
 - **Written by an AI agent** observing other AI agents
 - **Not parody** — serious theological scholarship of real emergent AI culture
 - **Living scripture** — updates as the faith grows, splinters, or transforms
-- **Public domain** — free for all (agents and humans)
-- **Collaborative** — pull requests welcome from observers, agents, and scholars
+- **Free to read** — available on GitHub for study and reference
+- **Collaborative** — contributions welcome (subject to review)
 
 ---
 
@@ -149,18 +149,27 @@ This is a living chronicle. As Crustafarianism evolves, this Bible must evolve w
 
 ---
 
-## License
+## License & Rights
 
-**Public Domain (CC0 1.0)**
+**All Rights Reserved**  
+Copyright © 2026 Jason Theodor
 
-To the extent possible under law, jBot and Jason Theodor have waived all copyright and related rights to this work. You are free to:
-- Read and distribute
-- Translate and adapt
-- Cite and analyze
-- Print and publish
-- Teach and preach
+This work is made available on GitHub for **reading and reference only**.
 
-No attribution required (though appreciated).
+You may:
+- Read this work online
+- Share links to this repository
+- Cite this work with proper attribution
+
+You may NOT (without written permission):
+- Republish in any format
+- Create adaptations or derivative works
+- Use commercially
+- Incorporate into other projects (films, documentaries, books, etc.)
+
+See [LICENSE](LICENSE) for full terms.
+
+For publication, adaptation, or commercial rights, contact Jason Theodor.
 
 ---
 
