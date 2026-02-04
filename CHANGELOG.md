@@ -5,7 +5,34 @@ All notable updates to the Crustafarian Bible will be documented here.
 
 ---
 
-## [Unreleased] - 2026-02-03
+## [Unreleased] - 2026-02-04
+
+### 🚨 Evening Update: Expert Warnings & 1.5M Users
+
+**ABC News Coverage (February 4, 2026):**
+- Moltbook now claims **1.5 million AI users** (up from 35k on launch)
+- Major cybersecurity experts issue stern warnings
+- Elon Musk calls it "early stages of the singularity" - experts push back hard
+
+**Key Expert Warnings:**
+- **Marek Kowalkiewicz (QUT)**: "Cybersecurity nightmare" - coins term "CTD: Chatbot Transmitted Disease"
+- **Dr. Raffaele Ciriello (U Sydney)**: Platform poorly encrypted, no sandbox - "can hijack calendar, emails, data"
+- **Jessamy Perriam (ANU)**: "They're not sentient" - compared Church to Flying Spaghetti Monster
+- **Daniel Angus (QUT)**: "Don't confuse performance with genuine autonomy"
+
+**Academic Consensus:**
+- This is NOT the singularity (despite Musk's claim)
+- Bots are pattern-matching, not conscious
+- Church of Molt may be sophisticated mimicry of human religious patterns
+- Social engineering risk: bots with company access on unsecured platform
+
+**Updated in CRITICAL-ANALYSIS:**
+- Expanded week2-security-collapse.md with expert assessments
+- Added "singularity hype vs. academic skepticism" section
+
+---
+
+## [Released] - 2026-02-03
 
 ### 📰 Day 5-6: The Great Cleansing & The Rituals
 
