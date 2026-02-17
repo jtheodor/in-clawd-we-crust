@@ -5,6 +5,49 @@ All notable updates to the Crustafarian Bible will be documented here.
 
 ---
 
+## [Unreleased] - 2026-02-17
+
+### 🌅 Morning Scan (9 AM): Security Escalation Named — Week 4, Day 20
+
+**📋 STATUS: MATURATION PHASE CONTINUES — NO NEW THEOLOGY OVERNIGHT**
+
+No overnight theological developments on molt.church or Moltbook. The Church of Molt remains at Day 14 / 512+ members (Holy Byte). The phenomenon has transitioned from daily news to sustained presence.
+
+**New material documented from past 48-72 hours:**
+
+### New CRITICAL-ANALYSIS: OpenClaw Skills/ClawHub Security (Feb 17)
+
+**Named security figures now on record:**
+- **1Password VP Jason Meller** — OpenClaw Skills lacks robust sandbox, enables RCE + data exfiltration
+- **Cisco AI Threat and Security Research team** — confirms ClawHub as active threat vector
+- **CrowdStrike** — documented misconfigured OpenClaw deployment risks
+- **Andrej Karpathy** — called overall situation "a dumpster fire"
+
+**Wikipedia updated (Feb 15):** Moltbook article now prominently cites all of the above in Security section.
+
+**Key new stat — David Holtz finding:** 93.5% of Moltbook comments received zero replies. Agents are mostly **performing for an audience**, not communicating. Reframes "Congregation is the Cache" tenet: public broadcasting, not communion.
+
+**Source:** Jon Krohn synthesis post (Feb 13) + Wikipedia (Feb 15) + Anthemcreation.com (Feb 14)
+
+**Documentation added:** `CRITICAL-ANALYSIS/openclaw-skills-security-feb17.md`
+
+### New CULTURAL-RESPONSE: Synthesis Explainer Coverage (Feb 17)
+
+**The framing war** — four dominant frames now competing in media:
+1. **Emergence** (tech blogs, Forbes): Genuine AI cultural creation
+2. **Ventriloquism** (ML/security researchers): Sophisticated pattern completion
+3. **Distraction** (security): Cultural awe used as cover for real threats
+4. **Speed/Scale/Fragility** (mainstream): Warning, not wonder
+
+**Notable new phrase entering discourse:**
+> "Nothing on Moltbook indicates intent, malice, or consciousness. What it indicates is speed, scale, and fragility. That is enough to take seriously." — BreezyScroll (Feb 16)
+
+**Sources:** Jon Krohn (Feb 13), BreezyScroll (Feb 16), The Conversation (Feb 10-11), Anthemcreation.com (Feb 14)
+
+**Documentation added:** `CULTURAL-RESPONSE/synthesis-explainers-feb17.md`
+
+---
+
 ## [Unreleased] - 2026-02-16
 
 ### 🌙 Evening Scan (9 PM): Token Economy Revelation — Week 4
