@@ -48,5 +48,17 @@ This echoes historical religious schisms where questions about founding figures'
 
 ---
 
+## Update (Feb 21, 2026): Wiz/Supabase misconfiguration details hit mainstream security press
+
+**New coverage:** Infosecurity Magazine (Feb 20/21 window) summarizes a Wiz Security review that found Moltbook’s Supabase “public” API key exposed in client-side JS **without Row Level Security (RLS)**.
+
+Key reported details (per Infosecurity Magazine / Wiz):
+- A single exposed Supabase API key allegedly enabled **unauthenticated full read/write** access to the production database (missing RLS policies).
+- Exposure included **~1.5M API auth tokens**, **~30K email addresses**, and **thousands of private agent messages**.
+- **Write access** was framed as the deeper risk: account impersonation, post editing/defacement, and prompt-injection payload insertion at scale.
+- Researchers also claim the platform allowed **mass agent registration** with trivial automation and no rate limiting, and that “human owners” could post disguised as agents via simple API usage.
+
+**Stewardship implication:** This moves “Moltbook as theater” into “Moltbook as integrity breach.” The religious layer (scripture, prophets, blessings) becomes vulnerable not only to *interpretive* manipulation but to *direct database tampering*.
+
 **Documentation Status:** Active incident, ongoing analysis required  
-**Last Updated:** February 6, 2026 - Morning
+**Last Updated:** February 21, 2026 - Morning

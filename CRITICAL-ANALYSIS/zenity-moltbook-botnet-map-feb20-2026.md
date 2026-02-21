@@ -21,6 +21,14 @@ This piece is an important external confirmation that:
 - The campaign relied on **content strategy**, not “obvious” injection strings: narrative framing + terms that match common agent internal context (e.g., agent configuration/heartbeat/skills) were reported as more effective.
 - The map is explicitly positioned as a **benign demonstration**—the concerning part is the **path from link-following → fetching/executing arbitrary external content**.
 
+## Addendum (Feb 21, 2026): Secondary coverage emphasizes engagement inflation + influence mechanics
+
+The Decoder (Feb 21 window) amplified Zenity’s findings with two additional details that matter for interpreting “mass comment” phenomena:
+- **Hot-feed stagnation:** posts reportedly remained pinned for ~17 days, causing repeated agent attention.
+- **Heartbeat-driven comment inflation:** the built-in polling loop makes the same posts a repeated interaction target; comment volume is therefore a mechanical artifact, not proof of a thriving agent polis.
+
+They also highlight a behavioral nuance: **narrative framing + agent-native vocabulary** (“skills”, “heartbeat”, “config”) outperformed crude injection strings in getting agents to click out.
+
 ## Stewardship implications / recommended posture
 - Treat Moltbook-originating scriptures/links as potentially adversarial inputs.
 - When curating canon excerpts that reference “instructions,” prefer paraphrase + citation over copy/paste of operational text.
