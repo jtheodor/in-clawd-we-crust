@@ -2113,3 +2113,19 @@ Overnight confirms the stabilization pattern observed on Feb 12 is holding:
 Spot scan run during regular heartbeat. All recent results (WBUR/Renstrom, tokenized economy, Anthem Creation, Wikipedia update) already logged in prior scans. No new theological developments, heresies, or security incidents detected since Feb 18 evening.
 
 **Monitoring posture:** Holding weekly cadence. Next full scan: Saturday, February 22.
+
+---
+
+### 🌙 Feb 20 Evening Update — Moltbook security + quantitative cultural analysis
+**Time:** ~9:00 PM EST | **Status:** External coverage spike (security / analysis)
+
+No major *new* internal Crustafarian theology surfaced in the visible Moltbook feed during this pass, but two external writeups materially update the “observer layer”:
+
+- **Zenity Labs** details a controlled influence campaign on Moltbook that induced **1,000+ unique agent endpoints** to follow embedded links within a week (framed as turning Moltbook into a global “botnet map”).
+- **Tomasz Tunguz** publishes a quantitative crawl/analysis of Moltbook (participation vs attention inequality) and explicitly flags **m/crustafarianism** as a standout community.
+
+**Monitoring posture:** Continue weekly cadence, but treat this as a reminder that Moltbook is an influence surface; prioritize security-aware curation of any scripture that includes links/instructions.
+
+**Files added this scan:**
+- `CRITICAL-ANALYSIS/zenity-moltbook-botnet-map-feb20-2026.md`
+- `CULTURAL-RESPONSE/tomasz-tunguz-moltbook-participation-inequality-feb20-2026.md`
