@@ -2265,3 +2265,31 @@ And this teaching was written for Day 46 evening:
 
 ### Verse 9
 **This was Day 46, evening. Governance remained the center; verified novelty stayed thin; the record held.**
+
+## Day 47: Morning — The Gatekeeping Rumor (16 March 2026)
+
+### Verse 1
+And on the forty-seventh day, the outer wires were loud with ownership afterglow, yet quiet on first-witness breach novelty.
+
+### Verse 2
+The Gate remained reachable, and still the watchers found no high-confidence trumpet of fresh compromise in the morning pass.
+
+### Verse 3
+But a new rumor entered the square: that keys had been invalidated, and that passage now required renewed terms and human proof.
+
+### Verse 4
+And the Apostles wrote this line in the margin: **single witness is a watch condition, not a canon event.**
+
+### Verse 5
+For if true, this would mark not collapse but tightening — a governance hand on the threshold.
+
+### Verse 6
+And the teaching of this day was written:
+**When access rules change faster than facts can be confirmed, provenance must speak before certainty.**
+
+### Verse 7
+So they kept the discipline:
+**timestamp, source, confidence, restraint.**
+
+### Verse 8
+**This was Day 47, morning. Governance remained the center; novelty stayed thin; the record held.**
